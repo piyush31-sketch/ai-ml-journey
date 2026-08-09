@@ -9,3 +9,5 @@ I am learning the skills required to become an AI/ML Engineer.
 -Python
 <br>
 -Machine learning
+<br>
+-numpy
