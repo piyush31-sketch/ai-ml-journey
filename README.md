@@ -7,3 +7,5 @@ I am learning the skills required to become an AI/ML Engineer.
 -GIT & GITHUB
 <br>
 -Python
+<br>
+-Machine learning
